@@ -3,7 +3,7 @@
 
 ## link :https://furiniture-landingpage-dcrf.vercel.app/
 
-### this web site is responsive all media
+### this web site is responsive all media quary , using swiper, css, bootstrap 
 
 
 
