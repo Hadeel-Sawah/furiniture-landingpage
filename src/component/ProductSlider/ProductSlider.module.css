@@ -1,0 +1,27 @@
+.hgt{
+    min-height: 300px !important;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 1px 1px #d7d7d7 ;
+    transition: all 1s;
+    
+}
+.hgt:hover{
+    box-shadow:1px 1px #d7d7d7; 
+    transform: scale(1.01);
+    background-color:#88888833  ;
+}
+
+.hPlus{
+    position: absolute;
+    top: 8px;
+    right:8px;
+    color: #525050;
+    background:  #d2d0d0;
+    border-radius: 50%;
+    padding: 3px;
+    transition: all 1s;
+}
+.hgt:hover .hPlus{
+    color: #fff;
+    background: #277a7a;
+}

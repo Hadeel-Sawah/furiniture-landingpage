@@ -1,0 +1,20 @@
+.bg{
+    background-image: url('../../assets/img/newsletter.png');
+    background-size: cover; 
+}
+.wdth,.wdth1{
+    width: 90%;
+    margin: auto;
+    
+}
+.wdth{
+    transition: all .3s;
+}
+.wdth:hover{
+    background-color: #277a7a !important;
+    border-color:  #277a7a ;
+  
+}
+.ColError{
+    color: #277a7a;
+}

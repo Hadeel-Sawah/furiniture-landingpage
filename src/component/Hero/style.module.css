@@ -1,0 +1,18 @@
+.hero{
+  background-image: url('../../assets/img/hero-bg.png');
+  background-size: cover;
+  background-position: right;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btnW{
+  color: #fff;
+  transition: all .3s;
+}
+.btnW:hover{
+  background-color: #277a7a !important;
+  border-color:  #277a7a ;
+
+}

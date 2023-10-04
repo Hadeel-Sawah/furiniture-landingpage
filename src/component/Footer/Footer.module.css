@@ -1,0 +1,5 @@
+.bg:hover{
+   color: #277a7a !important;
+   transition: all .2s;
+   cursor: pointer;
+}

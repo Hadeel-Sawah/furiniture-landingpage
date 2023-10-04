@@ -1,0 +1,24 @@
+
+.cool_link {
+    display: inline-block;
+    color:#277a7a;
+    text-decoration: none;
+}
+
+.cool_link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #277a7a;
+    transition: width .3s;
+}
+
+.cool_link:hover::after {
+    width: 100%;
+}
+@media screen and (max-width: 1050px) and (min-width: 350px) {
+    .cool_link:hover::after {
+        width:11%;
+    }
+}

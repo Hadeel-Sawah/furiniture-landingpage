@@ -1,0 +1,9 @@
+.statsbg{
+    background-color:#277a7a;
+}
+.stateCont{
+    transition:2s all;
+}
+.stateCont:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,7 @@
+.btnStyle{
+    text-decoration: none;
+    color: black;
+}
+.btnStyle:hover{
+text-decoration: underline;
+}
